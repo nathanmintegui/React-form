@@ -1,0 +1,42 @@
+label {
+  margin-top: 1em;
+  text-align: left;
+  display: block;
+}  
+
+h1 {
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+  color: black;
+}
+
+input, select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+  border-radius: 7px;
+}
+button {
+  background: red;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100px;
+  margin-left: 25%;
+}
+
+div {
+  background-color: white;
+  padding: 6px 10px;
+  border-radius: 0.5em;
+  margin: 1em;
+  max-width: fit-content;
+  
+}
+
